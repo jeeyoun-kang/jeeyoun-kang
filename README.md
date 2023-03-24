@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JYKANG&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=JYKANG&fontSize=70&animation=twinkling)
 
 <div align="center">
 
-​    
+  
 
-<h5 align='center'> 🖥
-I want to be a backend developer who writes readable code.</h5>
+<h3 align='center'> 🖥
+I want to be a backend developer who writes readable code.</h3>
 
 <br>
 
@@ -35,4 +35,3 @@ I want to be a backend developer who writes readable code.</h5>
 
 
 </div>
-
