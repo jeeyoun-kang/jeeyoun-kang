@@ -18,7 +18,7 @@ I want to be a backend developer who writes readable code.</h3>
 <img src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Django&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon AWS-FCC624?style=for-the-badge&logo=Amazon AWS&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
