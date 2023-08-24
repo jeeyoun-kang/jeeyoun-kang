@@ -30,8 +30,6 @@ I want to be a backend developer who writes readable code.</h3>
   <a href="mailto:xadamantiumx@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=xadamantiumx@naver.com"/></a>
 </p><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeyoun-kang&theme=merko&show_icons=true)
-
 
 
 </div>
