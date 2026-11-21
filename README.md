@@ -1,35 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=JYKANG&fontSize=70&animation=twinkling)
-
 <div align="center">
 
-  
+<h2>JYKANG</h2>
+<p>Backend Developer</p>
 
-<h3 align='center'> 🖥
-I want to be a backend developer who writes readable code.</h3>
+<p>Flow first. Fix the root cause, not just the bug.</p>
 
+<h3>Tech Stack</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Java-555?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-555?style=flat-square&logo=springboot&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/Spring_Batch-555?style=flat-square&logo=spring&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=A8B9CC">
+<img src="https://img.shields.io/badge/Oracle-555?style=flat-square">
 <br>
+<img src="https://img.shields.io/badge/Linux-555?style=flat-square&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/Jenkins-555?style=flat-square&logo=jenkins&logoColor=D24939">
+<img src="https://img.shields.io/badge/Git-555?style=flat-square&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-555?style=flat-square&logo=github&logoColor=white">
+</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3>Contact</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-EE4C2C?style=for-the-badge&logo=JAVA&logoColor=white">
-	<img src="https://img.shields.io/badge/Springboot-5C3EE8?style=for-the-badge&logo=Springboot&logoColor=black">    
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Django&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-FCC624?style=for-the-badge&logo=Amazon AWS&logoColor=black">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<br>
-
-<h3 align="center">🌱 Me 🌱</h3>
-<p align="center">
-  <a href="https://lemonade99.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://lemonade99.tistory.com"/></a>&nbsp
-  <a href="mailto:xadamantiumx@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=xadamantiumx@naver.com"/></a>
-</p><br>
-
-
+<p>
+<a href="https://lemonade99.tistory.com"><img src="https://img.shields.io/badge/Blog-555?style=flat-square&logo=tistory&logoColor=white"></a>
+<a href="mailto:xadamantiumx@naver.com"><img src="https://img.shields.io/badge/Email-555?style=flat-square&logo=naver&logoColor=03C75A"></a>
+</p>
 
 </div>
